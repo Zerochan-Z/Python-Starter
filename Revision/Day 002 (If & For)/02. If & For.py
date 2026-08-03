@@ -6,7 +6,7 @@ else : print("Kiddo")
 for i in range(5):
     print (i)
 
-j = 0;
+j = 0
 while j <= 4:
     print(j)
-    j = j + 1;
+    j = j + 1
